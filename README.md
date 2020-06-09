@@ -1,2 +1,2 @@
-# MDAnalysisMethods
-tutorials and explanations of MD analysis methdods
+# MD Methods
+tutorials and explanations of MD methdods
